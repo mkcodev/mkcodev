@@ -1,5 +1,5 @@
 # Hola, soy Mikel Salvador 👋
-**Desarrollador Full-Stack Junior con IA** · React · Next.js · TypeScript · Bilbao / remoto
+**AI-Augmented Full-Stack Developer** · Next.js · TypeScript · Node.js · Bilbao / remoto
 
 Construyo productos web completos y uso IA (Claude Code) para desarrollar más rápido, con tests y CI. Freelance de webs y SEO desde 2021 · Bootcamp Full Stack en 4Geeks Academy (2026). Busco prácticas o mi primer empleo como desarrollador.
 
