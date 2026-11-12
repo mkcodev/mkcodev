@@ -158,8 +158,10 @@ flowchart LR
 <Licencia> (ver [LICENSE](LICENSE)).
 
 <!-- 16. PIE FINAL (igual en todos los repos) -->
----
-
 <br>
 
-<div align="center"><sub>Made with ❤️ by <a href="https://mkcodev.com">mkcodev</a> · AI-Augmented Full-Stack Developer</sub></div>
+<div align="center">
+
+Made with ❤️ by [mkcodev](https://mkcodev.com) · AI-Augmented Full-Stack Developer
+
+</div>
