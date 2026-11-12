@@ -6,7 +6,7 @@ Cómo usarla:
 2. Sustituye cada <PLACEHOLDER>. Si una sección no aplica al repo, quítala entera.
 3. Cero invención: cada cifra sale de un comando ejecutado (tests, PRs, versiones).
    Lo que no se pueda verificar se omite o queda como <!-- TODO: ... -->.
-4. Emojis solo en los títulos de sección. Máximo 3 alertas de GitHub ([!NOTE], [!TIP], [!IMPORTANT], [!WARNING]).
+4. Emojis solo en los títulos de sección (única excepción: el corazón del pie final). Máximo 3 alertas de GitHub ([!NOTE], [!TIP], [!IMPORTANT], [!WARNING]).
 5. Prohibido: widgets externos que se rompen (github-readme-stats, contadores de visitas) y frases de marketing.
 6. Si cambias un título con emoji, actualiza su ancla en el índice (el emoji se ignora y deja un guion inicial: "## 🎯 ¿Por qué existe?" -> #-por-qué-existe).
 -->
@@ -157,3 +157,8 @@ flowchart LR
 ## 📄 Licencia
 
 <Licencia> (ver [LICENSE](LICENSE)).
+
+<!-- 16. PIE FINAL (igual en todos los repos) -->
+---
+
+<div align="center"><sub>Made with ❤️ by <a href="https://mkcodev.com">mkcodev</a> · AI-Augmented Full-Stack Developer</sub></div>
