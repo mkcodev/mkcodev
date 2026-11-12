@@ -161,4 +161,6 @@ flowchart LR
 <!-- 16. PIE FINAL (igual en todos los repos) -->
 ---
 
+<br>
+
 <div align="center"><sub>Made with ❤️ by <a href="https://mkcodev.com">mkcodev</a> · AI-Augmented Full-Stack Developer</sub></div>
