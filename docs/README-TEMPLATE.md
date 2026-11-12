@@ -8,6 +8,7 @@ Cómo usarla:
    Lo que no se pueda verificar se omite o queda como <!-- TODO: ... -->.
 4. Emojis solo en los títulos de sección (única excepción: el corazón del pie final). Máximo 3 alertas de GitHub ([!NOTE], [!TIP], [!IMPORTANT], [!WARNING]).
 5. Prohibido: widgets externos que se rompen (github-readme-stats, contadores de visitas) y frases de marketing.
+   Tampoco notas al pie: GitHub las pinta al final del documento, debajo de la firma. Pon la fuente dentro de la frase.
 6. Si cambias un título con emoji, actualiza su ancla en el índice (el emoji se ignora y deja un guion inicial: "## 🎯 ¿Por qué existe?" -> #-por-qué-existe).
 -->
 
@@ -114,11 +115,9 @@ flowchart LR
 <!-- 10. CALIDAD: cómo se testea, cifra real de tests, qué valida la CI, Lighthouse solo si hay datos verificados -->
 ## ✅ Calidad
 
-- **Tests:** <N> pasan, en <M> archivos.[^1]
+- **Tests:** <N> pasan, en <M> archivos (`<comando>` sobre `main`, <AAAA-MM-DD>).
 - **CI:** <Qué ejecuta y cuándo.>
 - **Lighthouse:** <Solo con datos medidos.>
-
-[^1]: Resultado de `<comando>` sobre `main` el <AAAA-MM-DD>.
 
 <!-- 11. DESARROLLO CON IA: solo hechos verificables en el historial (trailers de commit, flujo, revisión, tests) -->
 ## 🤖 Desarrollo con IA
@@ -159,8 +158,10 @@ flowchart LR
 <Licencia> (ver [LICENSE](LICENSE)).
 
 <!-- 16. PIE FINAL (igual en todos los repos) -->
----
-
 <br>
 
-<div align="center"><sub>Made with ❤️ by <a href="https://mkcodev.com">mkcodev</a> · AI-Augmented Full-Stack Developer</sub></div>
+<div align="center">
+
+Made with ❤️ by [mkcodev](https://mkcodev.com) · AI-Augmented Full-Stack Developer
+
+</div>
